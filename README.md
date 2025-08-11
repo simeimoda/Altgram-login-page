@@ -8,7 +8,8 @@ This project is a responsive Instagram-style login and signup page built with HT
 - **Instagram-Inspired UI**: Includes a login page with username and password fields, a signup page with additional fields, and a "Log In with Facebook" button.
 
 ## How to Run
-Clone the repository and open `index.html` in a browser.
+- **Option 1**: Clone the repository and open `index.html` in a browser.
+- **Option 2**: Access this url: https://simeimoda.github.io/Altgram-login-page/index.html
 
 ## Screenshot
 ![Portfolio Screenshot](assets/screenshot01.png)
